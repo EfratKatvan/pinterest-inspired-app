@@ -1,0 +1,1 @@
+A sophisticated, image-centric social platform inspired by Pinterest. This project demonstrates a complete Full Stack implementation, focusing on a dynamic user interface and a robust backend for managing content.
